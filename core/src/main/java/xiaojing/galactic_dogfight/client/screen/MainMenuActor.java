@@ -48,6 +48,7 @@ public class MainMenuActor extends CustomGroup {
     }
 
     /** 交互 */
+    @Override
     public void interactive() {
         startButton.replaceStyle();
         configButton.replaceStyle();

@@ -34,7 +34,6 @@ import java.util.ArrayList;
  * @author damios
  */
 public class StartupHelper {
-
     private static final String JVM_RESTARTED_ARG = "jvmIsRestarted";
 
     private StartupHelper() {
